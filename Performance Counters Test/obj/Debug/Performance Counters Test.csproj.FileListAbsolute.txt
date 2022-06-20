@@ -1,0 +1,14 @@
+C:\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\bin\Debug\Performance Counters Test.exe.config
+C:\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\bin\Debug\Performance Counters Test.exe
+C:\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\bin\Debug\Performance Counters Test.pdb
+C:\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\obj\Debug\Performance Counters Test.csprojAssemblyReference.cache
+C:\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\obj\Debug\Performance Counters Test.exe
+C:\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\obj\Debug\Performance Counters Test.pdb
+E:\Coding\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\bin\Debug\Performance Counters Test.exe.config
+E:\Coding\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\bin\Debug\Performance Counters Test.exe
+E:\Coding\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\bin\Debug\Performance Counters Test.pdb
+E:\Coding\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\obj\Debug\Performance Counters Test.csproj.AssemblyReference.cache
+E:\Coding\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\obj\Debug\Performance Counters Test.csproj.SuggestedBindingRedirects.cache
+E:\Coding\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\obj\Debug\Performance Counters Test.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\obj\Debug\Performance Counters Test.exe
+E:\Coding\CSharp Oefen Projects\Performance Counters Test\Performance Counters Test\obj\Debug\Performance Counters Test.pdb
